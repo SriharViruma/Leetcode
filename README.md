@@ -18,20 +18,25 @@ I am currently learning Data Structures and Algorithms (DSA). This repository co
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SriharViruma/Leetcode.git
-Browse the solutions:
+2.**Browse the solutions:**
 
-Explore the repository to find various LeetCode problems and their solutions. The problems are not organized by topic or difficulty.
-Run the solutions:
+- Explore the repository to find various LeetCode problems and their solutions. The problems are not organized by topic or difficulty.
+  
+3.**Run the solutions:**
 
-Each solution is a standalone Java file. You can run the solutions using your preferred Java development environment (e.g., IntelliJ, Eclipse) or from the command line.
-Solutions
+- Each solution is a standalone Java file. You can run the solutions using your preferred Java development environment (e.g., IntelliJ, Eclipse) or from the command line.
+  
+**Solutions**
+
 Since this is a learning repository, the solutions are added as I progress through different problems. Feel free to browse through the files to see the problems I have worked on.
 
-Contact
+**Contact**
+
 If you have any questions or suggestions, feel free to reach out to me:
 
-GitHub: SriharViruma
-Email: Sriharviruma04@gmail.com
+- GitHub: [SriharViruma](SriharViruma) 
+- Email: [Sriharviruma04@gmail.com](Sriharviruma04@gmail.com)
+- 
 Happy learning!
 
 
