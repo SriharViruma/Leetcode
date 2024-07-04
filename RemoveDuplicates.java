@@ -14,8 +14,7 @@ public class RemoveDuplicates {
 
             int i = 0;
             for(int index : list){
-                arr[i] = index;
-                i++; 
+                arr[i++] = index; 
             }
 
             for(int jk : arr){
