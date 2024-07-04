@@ -1,4 +1,4 @@
-# Learning DSA with LeetCode in Java
+# Learning DSA with LeetCode/GFG in Java
 
 Welcome to my repository where I practice Data Structures and Algorithms (DSA) using LeetCode problems in Java! This is a casual and unorganized space where I work through problems as I learn.
 
