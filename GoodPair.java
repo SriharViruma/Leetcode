@@ -17,7 +17,7 @@ public class GoodPair {
       return count;
     }
     public static void main(String[] args) {
-        int[] nums = {1,1,1,1};
+        int[] nums = {1,2,1,1}; 
         System.out.println(numIdenticalPairs(nums));
     }
 }
