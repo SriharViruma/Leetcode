@@ -19,7 +19,7 @@ public class tUf {
             if (it.getValue() == 1) {
                 return it.getKey();
             }
-        }
+        }   
 
         // This line will never execute
         // if the array contains a single element.
