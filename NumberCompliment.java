@@ -16,7 +16,7 @@ public class NumberCompliment {
 
         return ans;
     }
-    public static void main(String[] args) {                
+    public static void main(String[] args) {
         int n = 5;
         int m = 1;
         System.out.println(findComplement(n));
